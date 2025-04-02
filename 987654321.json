@@ -1,0 +1,38 @@
+{
+  "customer": {
+    "id": "a1b2c3d4-e5f6-g7h8-i9j0",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "cardNumber": "987654321",
+    "pointsBalance": 450,
+    "joinDate": "2024-11-15T14:20:00Z"
+  },
+  "transactions": [
+    {
+      "id": "x1y2z3a4-b5c6-d7e8-f9g0",
+      "date": "2025-03-28T10:15:00Z",
+      "amount": 45.75,
+      "pointsEarned": 45,
+      "storeLocation": "Oil Change"
+    },
+    {
+      "id": "h1i2j3k4-l5m6-n7o8-p9q0",
+      "date": "2025-03-15T16:30:00Z",
+      "amount": 220.50,
+      "pointsEarned": 220,
+      "storeLocation": "Brake Service"
+    }
+  ],
+  "redemptions": [
+    {
+      "id": "u1s2e3d4-r5e6-w7a8-r9d0",
+      "rewardId": "d1i2s3c4-o5u6-n7t8-n9o0",
+      "rewardName": "10% Off Service",
+      "pointsSpent": 750,
+      "redemptionDate": "2025-03-20T11:30:00Z",
+      "expiryDate": "2025-06-20T11:30:00Z",
+      "isRedeemed": true,
+      "redemptionCode": "REWARD-67890"
+    }
+  ]
+}

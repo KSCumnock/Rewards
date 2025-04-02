@@ -1,52 +1,59 @@
 {
-  "customer" : {
-    "email" : "jane@example.com",
-    "pointsBalance" : 300,
-    "joinDate" : "2025-03-01T10:30:00Z",
-    "name" : "Jane Smith",
-    "id" : "c1b2d3e4-f5g6-h7i8-j9k0",
-    "cardNumber" : "123456789"
-  },
   "transactions" : [
     {
-      "date" : "2025-04-02T15:18:54Z",
+      "amount" : 5000,
+      "date" : "2025-04-02T15:39:05Z",
+      "id" : "8A8CC4A3-BEE6-4310-9EE0-F668DAB14420",
+      "pointsEarned" : 5000,
+      "storeLocation" : "Test 2"
+    },
+    {
       "amount" : 50,
+      "date" : "2025-04-02T15:18:54Z",
       "id" : "3EE39418-D3F6-477C-AB7B-234C9A130687",
       "pointsEarned" : 50,
       "storeLocation" : "Test transaction"
     },
     {
-      "date" : "2025-03-29T14:30:00Z",
       "amount" : 25.5,
+      "date" : "2025-03-29T14:30:00Z",
       "id" : "t1u2v3w4-x5y6-z7a8-b9c0",
       "pointsEarned" : 25,
       "storeLocation" : "Puncture repair"
     },
     {
-      "date" : "2025-03-24T11:45:00Z",
       "amount" : 54.85,
+      "date" : "2025-03-24T11:45:00Z",
       "id" : "d1e2f3g4-h5i6-j7k8-l9m0",
       "pointsEarned" : 54,
       "storeLocation" : "MOT"
     },
     {
-      "date" : "2025-03-17T09:20:00Z",
       "amount" : 178.25,
+      "date" : "2025-03-17T09:20:00Z",
       "id" : "n1o2p3q4-r5s6-t7u8-v9w0",
       "pointsEarned" : 178,
       "storeLocation" : "Diagnostic Check"
     }
   ],
+  "customer" : {
+    "id" : "c1b2d3e4-f5g6-h7i8-j9k0",
+    "name" : "Jane Smith",
+    "email" : "jane@example.com",
+    "cardNumber" : "123456789",
+    "pointsBalance" : 5300,
+    "joinDate" : "2025-03-01T10:30:00Z"
+  },
   "redemptions" : [
     {
-      "pointsSpent" : 500,
       "isRedeemed" : false,
-      "rewardId" : "r1e2w3a4-r5d6-i7d8-r9e0",
-      "redemptionDate" : "2025-03-29T15:45:00Z",
+      "id" : "r1e2d3e4-m5p6-t7i8-o9n0",
       "redemptionCode" : "REWARD-54321",
+      "redemptionDate" : "2025-03-29T15:45:00Z",
+      "rewardId" : "r1e2w3a4-r5d6-i7d8-r9e0",
       "rewardName" : "£5 Voucher",
-      "expiryDate" : "2025-06-29T15:45:00Z",
-      "id" : "r1e2d3e4-m5p6-t7i8-o9n0"
+      "pointsSpent" : 500,
+      "expiryDate" : "2025-06-29T15:45:00Z"
     }
   ]
 }

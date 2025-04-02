@@ -1,45 +1,52 @@
 {
-  "customer": {
-    "id": "c1b2d3e4-f5g6-h7i8-j9k0",
-    "name": "Jane Smith",
-    "email": "jane@example.com",
-    "cardNumber": "123456789",
-    "pointsBalance": 250,
-    "joinDate": "2025-03-01T10:30:00Z"
+  "customer" : {
+    "email" : "jane@example.com",
+    "pointsBalance" : 300,
+    "joinDate" : "2025-03-01T10:30:00Z",
+    "name" : "Jane Smith",
+    "id" : "c1b2d3e4-f5g6-h7i8-j9k0",
+    "cardNumber" : "123456789"
   },
-  "transactions": [
+  "transactions" : [
     {
-      "id": "t1u2v3w4-x5y6-z7a8-b9c0",
-      "date": "2025-03-29T14:30:00Z",
-      "amount": 25.50,
-      "pointsEarned": 25,
-      "storeLocation": "Puncture repair"
+      "date" : "2025-04-02T15:18:54Z",
+      "amount" : 50,
+      "id" : "3EE39418-D3F6-477C-AB7B-234C9A130687",
+      "pointsEarned" : 50,
+      "storeLocation" : "Test transaction"
     },
     {
-      "id": "d1e2f3g4-h5i6-j7k8-l9m0",
-      "date": "2025-03-24T11:45:00Z",
-      "amount": 54.85,
-      "pointsEarned": 54,
-      "storeLocation": "MOT"
+      "date" : "2025-03-29T14:30:00Z",
+      "amount" : 25.5,
+      "id" : "t1u2v3w4-x5y6-z7a8-b9c0",
+      "pointsEarned" : 25,
+      "storeLocation" : "Puncture repair"
     },
     {
-      "id": "n1o2p3q4-r5s6-t7u8-v9w0",
-      "date": "2025-03-17T09:20:00Z",
-      "amount": 178.25,
-      "pointsEarned": 178,
-      "storeLocation": "Diagnostic Check"
+      "date" : "2025-03-24T11:45:00Z",
+      "amount" : 54.85,
+      "id" : "d1e2f3g4-h5i6-j7k8-l9m0",
+      "pointsEarned" : 54,
+      "storeLocation" : "MOT"
+    },
+    {
+      "date" : "2025-03-17T09:20:00Z",
+      "amount" : 178.25,
+      "id" : "n1o2p3q4-r5s6-t7u8-v9w0",
+      "pointsEarned" : 178,
+      "storeLocation" : "Diagnostic Check"
     }
   ],
-  "redemptions": [
+  "redemptions" : [
     {
-      "id": "r1e2d3e4-m5p6-t7i8-o9n0",
-      "rewardId": "r1e2w3a4-r5d6-i7d8-r9e0",
-      "rewardName": "£5 Voucher",
-      "pointsSpent": 500,
-      "redemptionDate": "2025-03-29T15:45:00Z",
-      "expiryDate": "2025-06-29T15:45:00Z",
-      "isRedeemed": false,
-      "redemptionCode": "REWARD-54321"
+      "pointsSpent" : 500,
+      "isRedeemed" : false,
+      "rewardId" : "r1e2w3a4-r5d6-i7d8-r9e0",
+      "redemptionDate" : "2025-03-29T15:45:00Z",
+      "redemptionCode" : "REWARD-54321",
+      "rewardName" : "£5 Voucher",
+      "expiryDate" : "2025-06-29T15:45:00Z",
+      "id" : "r1e2d3e4-m5p6-t7i8-o9n0"
     }
   ]
 }

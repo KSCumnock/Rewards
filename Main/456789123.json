@@ -1,45 +1,55 @@
 {
-  "customer" : {
-    "id" : "z9y8x7w6-v5u4-t3s2-r1q0",
-    "joinDate" : "2024-08-22T09:15:00Z",
-    "cardNumber" : "456789123",
-    "email" : "sarah@example.com",
-    "name" : "Sarah Johnson",
-    "pointsBalance" : 280
-  },
-  "transactions" : [
-    {
-      "id" : "r1s2t3u4-v5w6-x7y8-z9a0",
-      "pointsEarned" : 35,
-      "date" : "2025-03-25T13:45:00Z",
-      "amount" : 35.25,
-      "storeLocation" : "Filter Replacement"
-    },
-    {
-      "id" : "b1c2d3e4-f5g6-h7i8-j9k0",
-      "pointsEarned" : 330,
-      "date" : "2025-03-18T12:30:00Z",
-      "amount" : 330.75,
-      "storeLocation" : "Timing Belt Replacement"
-    },
-    {
-      "id" : "l1m2n3o4-p5q6-r7s8-t9u0",
-      "pointsEarned" : 75,
-      "date" : "2025-03-10T09:20:00Z",
-      "amount" : 75.5,
-      "storeLocation" : "Wheel Alignment"
-    }
-  ],
   "redemptions" : [
     {
-      "redemptionCode" : "REWARD-53937",
-      "isRedeemed" : false,
-      "rewardName" : "£5 Voucher",
       "rewardId" : "r1e2w3a4-r5d6-i7d8-r9e0",
+      "redemptionCode" : "REWARD-53937",
+      "redemptionDate" : "2025-04-02T18:16:42Z",
       "expiryDate" : "2025-07-02T18:16:42Z",
-      "pointsSpent" : 500,
       "id" : "2947E9BA-2A42-413F-ADD0-1FBC72B9A8E9",
-      "redemptionDate" : "2025-04-02T18:16:42Z"
+      "isRedeemed" : false,
+      "pointsSpent" : 500,
+      "rewardName" : "£5 Voucher"
+    },
+    {
+      "rewardId" : "r1e2w3a4-r5d6-i7d8-r9e0",
+      "redemptionCode" : "REWARD-40458",
+      "redemptionDate" : "2025-04-02T18:17:44Z",
+      "expiryDate" : "2025-07-02T18:17:44Z",
+      "id" : "C94E47E0-B146-4E0B-9ADA-878A8BCEF5A9",
+      "isRedeemed" : false,
+      "pointsSpent" : 500,
+      "rewardName" : "£5 Voucher"
     }
-  ]
+  ],
+  "transactions" : [
+    {
+      "storeLocation" : "Filter Replacement",
+      "id" : "r1s2t3u4-v5w6-x7y8-z9a0",
+      "pointsEarned" : 35,
+      "amount" : 35.25,
+      "date" : "2025-03-25T13:45:00Z"
+    },
+    {
+      "storeLocation" : "Timing Belt Replacement",
+      "id" : "b1c2d3e4-f5g6-h7i8-j9k0",
+      "pointsEarned" : 330,
+      "amount" : 330.75,
+      "date" : "2025-03-18T12:30:00Z"
+    },
+    {
+      "storeLocation" : "Wheel Alignment",
+      "id" : "l1m2n3o4-p5q6-r7s8-t9u0",
+      "pointsEarned" : 75,
+      "amount" : 75.5,
+      "date" : "2025-03-10T09:20:00Z"
+    }
+  ],
+  "customer" : {
+    "joinDate" : "2024-08-22T09:15:00Z",
+    "id" : "z9y8x7w6-v5u4-t3s2-r1q0",
+    "name" : "Sarah Johnson",
+    "email" : "sarah@example.com",
+    "cardNumber" : "456789123",
+    "pointsBalance" : 280
+  }
 }

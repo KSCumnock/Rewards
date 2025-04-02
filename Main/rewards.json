@@ -6,7 +6,8 @@
       "description": "£5 off your next purchase",
       "pointsCost": 500,
       "isAvailable": true,
-      "imageUrl": "voucher_5"
+      "imageUrl": "voucher_5",
+      "additionalInfo": "This £5 voucher can be applied to any purchase at Kerr & Smith. Simply present the code at checkout to receive an instant £5 discount. Valid for 3 months from the date of redemption. Cannot be combined with other promotions or discounts."
     },
     {
       "id": "f1r2e3e4-m5o6-t7r8-e9w0",
@@ -14,7 +15,8 @@
       "description": "Free MOT at Kerr & Smith Cumnock",
       "pointsCost": 1000,
       "isAvailable": true,
-      "imageUrl": "free_product"
+      "imageUrl": "free_product",
+      "additionalInfo": ""
     },
     {
       "id": "v1i2p3m4-e5m6-b7e8-r9s0",
@@ -22,7 +24,8 @@
       "description": "Exclusive access to VIP Membership",
       "pointsCost": 2500,
       "isAvailable": true,
-      "imageUrl": "vip_event"
+      "imageUrl": "vip_event",
+      "additionalInfo": ""
     },
     {
       "id": "d1i2s3c4-o5u6-n7t8-n9o0",
@@ -30,7 +33,8 @@
       "description": "10% discount on your next service",
       "pointsCost": 750,
       "isAvailable": true,
-      "imageUrl": "discount_service"
+      "imageUrl": "discount_service",
+      "additionalInfo": ""
     }
   ]
 }

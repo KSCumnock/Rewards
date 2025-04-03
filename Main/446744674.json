@@ -1,0 +1,17 @@
+{
+  "customer" : {
+    "pointsBalance" : 0,
+    "name" : "Sean Kelly",
+    "expiryDate" : "2026-04-03T13:28:39Z",
+    "cardNumber" : "446744674",
+    "joinDate" : "2025-04-03T13:28:39Z",
+    "id" : "5C337878-3EC7-4B5D-A8FA-D7D8F9EC300F",
+    "email" : "ske@kerrandsmith.co.uk"
+  },
+  "redemptions" : [
+
+  ],
+  "transactions" : [
+
+  ]
+}

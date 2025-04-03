@@ -21,15 +21,15 @@
       "isRedeemed" : false
     }
   ],
-  "customer" : {
-    "pointsBalance" : 4550,
-    "id" : "c1b2d3e4-f5g6-h7i8-j9k0",
-    "name" : "Jane Smith",
-    "cardNumber" : "123456789",
-    "joinDate" : "2025-03-01T10:30:00Z",
-    "expiryDate" : "2026-03-01"
-    "email" : "jane@example.com"
-  },
+"customer" : {
+  "pointsBalance" : 4550,
+  "id" : "c1b2d3e4-f5g6-h7i8-j9k0",
+  "name" : "Jane Smith",
+  "cardNumber" : "123456789",
+  "joinDate" : "2025-03-01T10:30:00Z",
+ "expiryDate" : "2026-03-01T00:00:00Z",
+  "email" : "jane@example.com"
+},
   "transactions" : [
     {
       "storeLocation" : "Test 2",

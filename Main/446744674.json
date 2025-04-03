@@ -1,17 +1,23 @@
 {
   "customer" : {
-    "pointsBalance" : 0,
-    "name" : "Sean Kelly",
-    "expiryDate" : "2026-04-03T13:28:39Z",
     "cardNumber" : "446744674",
     "joinDate" : "2025-04-03T13:28:39Z",
     "id" : "5C337878-3EC7-4B5D-A8FA-D7D8F9EC300F",
+    "expiryDate" : "2026-04-03T13:28:39Z",
+    "pointsBalance" : 685,
+    "name" : "Sean Kelly",
     "email" : "ske@kerrandsmith.co.uk"
   },
   "redemptions" : [
 
   ],
   "transactions" : [
-
+    {
+      "date" : "2025-04-03T13:57:39Z",
+      "pointsEarned" : 685,
+      "amount" : 685.74,
+      "id" : "42357504-7875-4FF5-88D5-3A390F5EE80F",
+      "storeLocation" : "Main Service & Brakes"
+    }
   ]
 }

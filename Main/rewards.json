@@ -1,49 +1,49 @@
 {
   "rewards" : [
     {
-      "pointsCost" : 500,
-      "id" : "r1e2w3a4-r5d6-i7d8-r9e0",
       "isAvailable" : true,
       "name" : "£5 Voucher",
-      "additionalInfo" : "This £5 voucher can be applied to any purchase at Kerr & Smith. Simply present the code at checkout to receive an instant £5 discount. Valid for 3 months from the date of redemption. Cannot be combined with other promotions or discounts.",
       "description" : "£5 off your next purchase",
-      "imageUrl" : ""
+      "imageUrl" : "",
+      "id" : "r1e2w3a4-r5d6-i7d8-r9e0",
+      "additionalInfo" : "This £5 voucher can be applied to any purchase at Kerr & Smith. Simply present the code at checkout to receive an instant £5 discount. Valid for 3 months from the date of redemption. Cannot be combined with other promotions or discounts.",
+      "pointsCost" : 500
     },
     {
-      "pointsCost" : 750,
-      "id" : "d1i2s3c4-o5u6-n7t8-n9o0",
       "isAvailable" : true,
       "name" : "10% Off Service",
-      "additionalInfo" : "Get 10% off your next vehicle service at any Kerr & Smith location. This discount applies to labor and parts for standard vehicle services. Present your code at the time of booking to redeem. Valid for 6 months from redemption date. Maximum discount value of £100. Cannot be applied to MOT tests or combined with other service offers.",
       "description" : "10% discount on your next service",
-      "imageUrl" : ""
+      "imageUrl" : "",
+      "id" : "d1i2s3c4-o5u6-n7t8-n9o0",
+      "additionalInfo" : "Get 10% off your next vehicle service at any Kerr & Smith location. This discount applies to labor and parts for standard vehicle services. Present your code at the time of booking to redeem. Valid for 6 months from redemption date. Maximum discount value of £100. Cannot be applied to MOT tests or combined with other service offers.",
+      "pointsCost" : 750
     },
     {
-      "pointsCost" : 1000,
-      "id" : "f1r2e3e4-m5o6-t7r8-e9w0",
       "isAvailable" : true,
       "name" : "Free MOT",
-      "additionalInfo" : "Redeem this reward for a complimentary MOT test at our Cumnock branch. This offer includes the standard MOT inspection only and does not cover any repairs or adjustments needed. Booking is required at least 7 days in advance. Please call our service department to schedule your appointment and mention your reward code when booking.",
       "description" : "Free MOT at Kerr & Smith Cumnock",
-      "imageUrl" : ""
+      "imageUrl" : "",
+      "id" : "f1r2e3e4-m5o6-t7r8-e9w0",
+      "additionalInfo" : "Redeem this reward for a complimentary MOT test at our Cumnock branch. This offer includes the standard MOT inspection only and does not cover any repairs or adjustments needed. Booking is required at least 7 days in advance. Please call our service department to schedule your appointment and mention your reward code when booking.",
+      "pointsCost" : 1000
     },
     {
-      "pointsCost" : 2500,
-      "id" : "v1i2p3m4-e5m6-b7e8-r9s0",
       "isAvailable" : true,
       "name" : "VIP Membership",
-      "additionalInfo" : "Our premium VIP Membership gives you exclusive benefits for 12 months including priority servicing, complimentary vehicle health checks, access to our courtesy vehicles (subject to availability), invitations to exclusive events, and a dedicated customer service line. VIP benefits begin within 48 hours of redemption. Membership is non-transferable and linked to your customer account.",
       "description" : "Exclusive access to VIP Membership",
-      "imageUrl" : ""
+      "imageUrl" : "",
+      "id" : "v1i2p3m4-e5m6-b7e8-r9s0",
+      "additionalInfo" : "Our premium VIP Membership gives you exclusive benefits for 12 months including priority servicing, complimentary vehicle health checks, access to our courtesy vehicles (subject to availability), invitations to exclusive events, and a dedicated customer service line. VIP benefits begin within 48 hours of redemption. Membership is non-transferable and linked to your customer account.",
+      "pointsCost" : 2500
     },
     {
-      "pointsCost" : 0,
-      "id" : "E8AD2167-8753-4511-9047-EAD604D57A9F",
-      "isAvailable" : true,
+      "isAvailable" : false,
       "name" : "50 Year Anniversary",
-      "additionalInfo" : "We have a special gift for you to take home to commemorate our 50 year in business celebration.",
       "description" : "A free gift when you visit us",
-      "imageUrl" : ""
+      "imageUrl" : "",
+      "id" : "E8AD2167-8753-4511-9047-EAD604D57A9F",
+      "additionalInfo" : "We have a special gift for you to take home to commemorate our 50 year in business celebration.",
+      "pointsCost" : 0
     }
   ]
 }

@@ -7,7 +7,7 @@
       "name" : "£5 Voucher",
       "additionalInfo" : "This £5 voucher can be applied to any purchase at Kerr & Smith. Simply present the code at checkout to receive an instant £5 discount. Valid for 3 months from the date of redemption. Cannot be combined with other promotions or discounts.",
       "description" : "£5 off your next purchase",
-      "imageUrl" : "voucher_5"
+      "imageUrl" : "https://raw.githubusercontent.com/KSCumnock/Rewards/main/RewardImages/5Voucher.png"
     },
     {
       "pointsCost" : 750,

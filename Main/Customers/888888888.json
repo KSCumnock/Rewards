@@ -1,0 +1,17 @@
+{
+  "redemptions" : [
+
+  ],
+  "transactions" : [
+
+  ],
+  "customer" : {
+    "cardNumber" : "888888888",
+    "id" : "1D309BB3-7F5D-49C7-87CD-163A6E4285E4",
+    "pointsBalance" : 0,
+    "name" : "Test Customer ",
+    "email" : "tsa@kerr.com",
+    "joinDate" : "2025-04-10T15:31:10Z",
+    "expiryDate" : "2026-04-10T15:31:10Z"
+  }
+}

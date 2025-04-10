@@ -1,0 +1,13 @@
+{
+  "redemptions": [],
+  "transactions": [],
+  "customer": {
+    "cardNumber": "666666666",
+    "pointsBalance": 0,
+    "email": "ske@me.com",
+    "id": "4dc83e93-b28e-49c3-a89f-88c7ae3d2bf2",
+    "name": "Sean Kellyq",
+    "expiryDate": "2026-04-10T15:36:57.438Z",
+    "joinDate": "2025-04-10T15:36:57.438Z"
+  }
+}

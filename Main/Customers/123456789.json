@@ -1,70 +1,70 @@
 {
-  "redemptions" : [
-    {
-      "redemptionDate" : "2025-03-29T15:45:00Z",
-      "expiryDate" : "2025-06-29T15:45:00Z",
-      "id" : "r1e2d3e4-m5p6-t7i8-o9n0",
-      "rewardId" : "r1e2w3a4-r5d6-i7d8-r9e0",
-      "redemptionCode" : "REWARD-54321",
-      "rewardName" : "£5 Voucher",
-      "pointsSpent" : 500,
-      "isRedeemed" : true
-    },
-    {
-      "redemptionDate" : "2025-04-02T15:41:08Z",
-      "expiryDate" : "2025-07-02T15:41:08Z",
-      "id" : "BB6976FA-FBA8-4580-955E-ACA21E687C5F",
-      "rewardId" : "d1i2s3c4-o5u6-n7t8-n9o0",
-      "redemptionCode" : "REWARD-26099",
-      "rewardName" : "10% Off Service",
-      "pointsSpent" : 750,
-      "isRedeemed" : false
-    }
-  ],
-"customer" : {
-  "pointsBalance" : 4550,
-  "id" : "c1b2d3e4-f5g6-h7i8-j9k0",
-  "name" : "Jane Smith",
-  "cardNumber" : "123456789",
-  "joinDate" : "2025-03-01T10:30:00Z",
- "expiryDate" : "2026-03-01T00:00:00Z",
-  "email" : "jane@example.com"
-},
   "transactions" : [
     {
       "storeLocation" : "Test 2",
-      "date" : "2025-04-02T15:39:05Z",
-      "id" : "8A8CC4A3-BEE6-4310-9EE0-F668DAB14420",
+      "pointsEarned" : 5000,
       "amount" : 5000,
-      "pointsEarned" : 5000
+      "id" : "8A8CC4A3-BEE6-4310-9EE0-F668DAB14420",
+      "date" : "2025-04-02T15:39:05Z"
     },
     {
       "storeLocation" : "Test transaction",
-      "date" : "2025-04-02T15:18:54Z",
-      "id" : "3EE39418-D3F6-477C-AB7B-234C9A130687",
+      "pointsEarned" : 50,
       "amount" : 50,
-      "pointsEarned" : 50
+      "id" : "3EE39418-D3F6-477C-AB7B-234C9A130687",
+      "date" : "2025-04-02T15:18:54Z"
     },
     {
-      "amount" : 25.5,
       "storeLocation" : "Puncture repair",
-      "date" : "2025-03-29T14:30:00Z",
+      "pointsEarned" : 25,
+      "amount" : 25.5,
       "id" : "t1u2v3w4-x5y6-z7a8-b9c0",
-      "pointsEarned" : 25
+      "date" : "2025-03-29T14:30:00Z"
     },
     {
-      "amount" : 54.85,
       "storeLocation" : "MOT",
-      "date" : "2025-03-24T11:45:00Z",
+      "pointsEarned" : 54,
+      "amount" : 54.85,
       "id" : "d1e2f3g4-h5i6-j7k8-l9m0",
-      "pointsEarned" : 54
+      "date" : "2025-03-24T11:45:00Z"
     },
     {
-      "amount" : 178.25,
       "storeLocation" : "Diagnostic Check",
-      "date" : "2025-03-17T09:20:00Z",
+      "pointsEarned" : 178,
+      "amount" : 178.25,
       "id" : "n1o2p3q4-r5s6-t7u8-v9w0",
-      "pointsEarned" : 178
+      "date" : "2025-03-17T09:20:00Z"
     }
-  ]
+  ],
+  "redemptions" : [
+    {
+      "id" : "r1e2d3e4-m5p6-t7i8-o9n0",
+      "rewardName" : "£5 Voucher",
+      "pointsSpent" : 500,
+      "isRedeemed" : true,
+      "redemptionCode" : "REWARD-54321",
+      "redemptionDate" : "2025-03-29T15:45:00Z",
+      "rewardId" : "r1e2w3a4-r5d6-i7d8-r9e0",
+      "expiryDate" : "2025-06-29T15:45:00Z"
+    },
+    {
+      "id" : "BB6976FA-FBA8-4580-955E-ACA21E687C5F",
+      "rewardName" : "10% Off Service",
+      "pointsSpent" : 750,
+      "isRedeemed" : true,
+      "redemptionCode" : "REWARD-26099",
+      "redemptionDate" : "2025-04-02T15:41:08Z",
+      "rewardId" : "d1i2s3c4-o5u6-n7t8-n9o0",
+      "expiryDate" : "2025-07-02T15:41:08Z"
+    }
+  ],
+  "customer" : {
+    "id" : "c1b2d3e4-f5g6-h7i8-j9k0",
+    "expiryDate" : "2026-03-01T00:00:00Z",
+    "cardNumber" : "123456789",
+    "email" : "jane@example.com",
+    "name" : "Jane Smith",
+    "pointsBalance" : 4550,
+    "joinDate" : "2025-03-01T10:30:00Z"
+  }
 }

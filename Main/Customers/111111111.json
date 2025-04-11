@@ -1,0 +1,13 @@
+{
+  "customer": {
+    "cardNumber": "111111111",
+    "pointsBalance": 0,
+    "email": "wsm@kerrandsmith.co.uk",
+    "id": "24ba1128-2afb-44d3-aebd-4390957b9b91",
+    "name": "William Smith",
+    "expiryDate": "",
+    "joinDate": "2025-04-11T11:37:28Z"
+  },
+  "transactions": [],
+  "redemptions": []
+}

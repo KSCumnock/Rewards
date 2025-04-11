@@ -1,0 +1,17 @@
+{
+  "customer" : {
+    "cardNumber" : "888888888",
+    "expiryDate" : "2026-04-11T08:40:31Z",
+    "name" : "Sean Kelly2",
+    "joinDate" : "2025-04-11T08:40:31Z",
+    "pointsBalance" : 0,
+    "email" : "ske@me.com",
+    "id" : "7DC24459-865F-4B03-9A0E-63EF004B258C"
+  },
+  "redemptions" : [
+
+  ],
+  "transactions" : [
+
+  ]
+}

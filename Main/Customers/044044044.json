@@ -1,0 +1,17 @@
+{
+  "customer" : {
+    "expiryDate" : "2026-04-11T11:45:27Z",
+    "id" : "BEC2E964-B320-4235-800E-06054D933EEC",
+    "email" : "ksh@kerrandsmith.co.uk",
+    "pointsBalance" : 0,
+    "name" : "Karen Kelly",
+    "joinDate" : "2025-04-11T11:45:27Z",
+    "cardNumber" : "044044044"
+  },
+  "transactions" : [
+
+  ],
+  "redemptions" : [
+
+  ]
+}

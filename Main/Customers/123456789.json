@@ -1,7 +1,7 @@
 {
   "customer": {
     "cardNumber": "123456789",
-    "pointsBalance": 3700,
+    "pointsBalance": 2700,
     "email": "jane@example.com",
     "id": "c1b2d3e4-f5g6-h7i8-j9k0",
     "name": "Jane Smith",
@@ -82,6 +82,16 @@
       "isRedeemed": false,
       "redemptionCode": "REWARD-27662",
       "pointsSpent": 1000
+    },
+    {
+      "id": "28024845-0301-4237-9a4e-37024f1c6f50",
+      "rewardId": "f1r2e3e4-m5o6-t7r8-e9w0",
+      "rewardName": "Free MOT",
+      "pointsSpent": 1000,
+      "redemptionDate": "2025-04-11T09:57:23Z",
+      "expiryDate": "2025-07-10T09:57:23Z",
+      "isRedeemed": false,
+      "redemptionCode": "REWARD-90973"
     }
   ]
 }

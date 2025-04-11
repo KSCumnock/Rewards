@@ -1,0 +1,13 @@
+{
+  "customer": {
+    "cardNumber": "777777777",
+    "pointsBalance": 0,
+    "email": "ske@mee.com",
+    "id": "73618567-a717-4785-85f7-9c03a00f9ccb",
+    "name": "Sean Kelly3",
+    "expiryDate": "2026-04-11T08:50:43Z",
+    "joinDate": "2025-04-11T08:50:43Z"
+  },
+  "transactions": [],
+  "redemptions": []
+}

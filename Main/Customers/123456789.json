@@ -1,7 +1,7 @@
 {
   "customer": {
     "cardNumber": "123456789",
-    "pointsBalance": 2700,
+    "pointsBalance": 625,
     "email": "jane@example.com",
     "id": "c1b2d3e4-f5g6-h7i8-j9k0",
     "name": "Jane Smith",
@@ -10,7 +10,7 @@
   },
   "transactions": [
     {
-      "pointsEarned": 5000,
+      "pointsEarned": 200,
       "id": "8A8CC4A3-BEE6-4310-9EE0-F668DAB14420",
       "storeLocation": "Test 2",
       "date": "2025-04-02T15:39:05Z",
@@ -31,14 +31,14 @@
       "amount": 25.5
     },
     {
-      "pointsEarned": 54,
+      "pointsEarned": 100,
       "id": "d1e2f3g4-h5i6-j7k8-l9m0",
       "storeLocation": "MOT",
       "date": "2025-03-24T11:45:00Z",
       "amount": 54.85
     },
     {
-      "pointsEarned": 178,
+      "pointsEarned": 100,
       "storeLocation": "Diagnostic Check",
       "id": "n1o2p3q4-r5s6-t7u8-v9w0",
       "date": "2025-03-17T09:20:00Z",

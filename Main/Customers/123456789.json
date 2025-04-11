@@ -1,80 +1,87 @@
 {
-  "transactions" : [
+  "customer": {
+    "cardNumber": "123456789",
+    "pointsBalance": 3700,
+    "email": "jane@example.com",
+    "id": "c1b2d3e4-f5g6-h7i8-j9k0",
+    "name": "Jane Smith",
+    "expiryDate": "2026-03-01T00:00:00Z",
+    "joinDate": "2025-03-01T10:30:00Z"
+  },
+  "transactions": [
     {
-      "pointsEarned" : 5000,
-      "id" : "8A8CC4A3-BEE6-4310-9EE0-F668DAB14420",
-      "storeLocation" : "Test 2",
-      "date" : "2025-04-02T15:39:05Z",
-      "amount" : 5000
+      "pointsEarned": 5000,
+      "id": "8A8CC4A3-BEE6-4310-9EE0-F668DAB14420",
+      "storeLocation": "Test 2",
+      "date": "2025-04-02T15:39:05Z",
+      "amount": 5000
     },
     {
-      "pointsEarned" : 50,
-      "id" : "3EE39418-D3F6-477C-AB7B-234C9A130687",
-      "storeLocation" : "Test transaction",
-      "date" : "2025-04-02T15:18:54Z",
-      "amount" : 50
+      "pointsEarned": 50,
+      "id": "3EE39418-D3F6-477C-AB7B-234C9A130687",
+      "storeLocation": "Test transaction",
+      "date": "2025-04-02T15:18:54Z",
+      "amount": 50
     },
     {
-      "pointsEarned" : 25,
-      "id" : "t1u2v3w4-x5y6-z7a8-b9c0",
-      "storeLocation" : "Puncture repair",
-      "date" : "2025-03-29T14:30:00Z",
-      "amount" : 25.5
+      "pointsEarned": 25,
+      "id": "t1u2v3w4-x5y6-z7a8-b9c0",
+      "storeLocation": "Puncture repair",
+      "date": "2025-03-29T14:30:00Z",
+      "amount": 25.5
     },
     {
-      "pointsEarned" : 54,
-      "id" : "d1e2f3g4-h5i6-j7k8-l9m0",
-      "storeLocation" : "MOT",
-      "date" : "2025-03-24T11:45:00Z",
-      "amount" : 54.85
+      "pointsEarned": 54,
+      "id": "d1e2f3g4-h5i6-j7k8-l9m0",
+      "storeLocation": "MOT",
+      "date": "2025-03-24T11:45:00Z",
+      "amount": 54.85
     },
     {
-      "pointsEarned" : 178,
-      "storeLocation" : "Diagnostic Check",
-      "id" : "n1o2p3q4-r5s6-t7u8-v9w0",
-      "date" : "2025-03-17T09:20:00Z",
-      "amount" : 178.25
+      "pointsEarned": 178,
+      "storeLocation": "Diagnostic Check",
+      "id": "n1o2p3q4-r5s6-t7u8-v9w0",
+      "date": "2025-03-17T09:20:00Z",
+      "amount": 178.25
+    },
+    {
+      "pointsEarned": 150,
+      "id": "de3bd14a-6c0b-41c6-ab4a-8b5ae04c19c0",
+      "storeLocation": "Test Oil Change",
+      "date": "2025-04-11T08:12:00.000Z",
+      "amount": 150
     }
   ],
-  "customer" : {
-    "cardNumber" : "123456789",
-    "pointsBalance" : 3550,
-    "email" : "jane@example.com",
-    "id" : "c1b2d3e4-f5g6-h7i8-j9k0",
-    "name" : "Jane Smith",
-    "expiryDate" : "2026-03-01T00:00:00Z",
-    "joinDate" : "2025-03-01T10:30:00Z"
-  },
-  "redemptions" : [
+  "redemptions": [
     {
-      "rewardId" : "r1e2w3a4-r5d6-i7d8-r9e0",
-      "redemptionDate" : "2025-03-29T15:45:00Z",
-      "rewardName" : "£5 Voucher",
-      "id" : "r1e2d3e4-m5p6-t7i8-o9n0",
-      "expiryDate" : "2025-06-29T15:45:00Z",
-      "isRedeemed" : true,
-      "redemptionCode" : "REWARD-54321",
-      "pointsSpent" : 500
+      "rewardId": "r1e2w3a4-r5d6-i7d8-r9e0",
+      "redemptionDate": "2025-03-29T15:45:00Z",
+      "rewardName": "£5 Voucher",
+      "id": "r1e2d3e4-m5p6-t7i8-o9n0",
+      "expiryDate": "2025-06-29T15:45:00Z",
+      "isRedeemed": true,
+      "redemptionCode": "REWARD-54321",
+      "pointsSpent": 500
     },
     {
-      "rewardId" : "d1i2s3c4-o5u6-n7t8-n9o0",
-      "redemptionDate" : "2025-04-02T15:41:08Z",
-      "rewardName" : "10% Off Service",
-      "id" : "BB6976FA-FBA8-4580-955E-ACA21E687C5F",
-      "expiryDate" : "2025-07-02T15:41:08Z",
-      "isRedeemed" : true,
-      "redemptionCode" : "REWARD-26099",
-      "pointsSpent" : 750
+      "rewardId": "d1i2s3c4-o5u6-n7t8-n9o0",
+      "redemptionDate": "2025-04-02T15:41:08Z",
+      "rewardName": "10% Off Service",
+      "id": "BB6976FA-FBA8-4580-955E-ACA21E687C5F",
+      "expiryDate": "2025-07-02T15:41:08Z",
+      "isRedeemed": true,
+      "redemptionCode": "REWARD-26099",
+      "pointsSpent": 750
     },
     {
-      "rewardId" : "f1r2e3e4-m5o6-t7r8-e9w0",
-      "redemptionDate" : "2025-04-10T09:45:13Z",
-      "rewardName" : "Free MOT",
-      "id" : "8C7B9165-C65A-453F-B895-E1E7780D6F5F",
-      "expiryDate" : "2025-07-10T09:45:13Z",
-      "isRedeemed" : false,
-      "redemptionCode" : "REWARD-27662",
-      "pointsSpent" : 1000
+      "rewardId": "f1r2e3e4-m5o6-t7r8-e9w0",
+      "redemptionDate": "2025-04-10T09:45:13Z",
+      "rewardName": "Free MOT",
+      "id": "8C7B9165-C65A-453F-B895-E1E7780D6F5F",
+      "expiryDate": "2025-07-10T09:45:13Z",
+      "isRedeemed": false,
+      "redemptionCode": "REWARD-27662",
+      "pointsSpent": 1000
     }
   ]
 }

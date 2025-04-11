@@ -1,7 +1,7 @@
 {
   "customer": {
     "cardNumber": "123456789",
-    "pointsBalance": 625,
+    "pointsBalance": 125,
     "email": "jane@example.com",
     "id": "c1b2d3e4-f5g6-h7i8-j9k0",
     "name": "Jane Smith",
@@ -52,5 +52,16 @@
       "amount": 150
     }
   ],
-  "redemptions": []
+  "redemptions": [
+    {
+      "id": "727eedef-c0c1-4609-b1b5-e22d08b137c5",
+      "rewardId": "r1e2w3a4-r5d6-i7d8-r9e0",
+      "rewardName": "£5 Voucher",
+      "pointsSpent": 500,
+      "redemptionDate": "2025-04-11T10:45:30Z",
+      "expiryDate": "2025-07-10T10:45:30Z",
+      "isRedeemed": true,
+      "redemptionCode": "REWARD-13065"
+    }
+  ]
 }

@@ -43,6 +43,15 @@
       "name": "50 Year Anniversary",
       "description": "A free gift when you visit us",
       "isAvailable": false
+    },
+    {
+      "id": "603017eb-44ef-4dc1-9ef7-9f63b83285fb",
+      "name": "Test Reward",
+      "description": "Short Description",
+      "additionalInfo": "Some additional information ",
+      "pointsCost": 550,
+      "isAvailable": true,
+      "imageUrl": ""
     }
   ]
 }

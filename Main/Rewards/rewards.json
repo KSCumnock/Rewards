@@ -7,7 +7,7 @@
       "description": "£5 off your next purchase",
       "isAvailable": true,
       "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
-      "pointsCost": 500
+      "pointsCost": 5
     },
     {
       "id": "d1i2s3c4-o5u6-n7t8-n9o0",

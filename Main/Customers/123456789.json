@@ -1,7 +1,7 @@
 {
   "customer": {
     "cardNumber": "123456789",
-    "pointsBalance": 12500,
+    "pointsBalance": 125,
     "email": "jane@example.com",
     "id": "c1b2d3e4-f5g6-h7i8-j9k0",
     "name": "Jane Smith",

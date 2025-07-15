@@ -27,7 +27,15 @@
   "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
   "pointsCost": 1000
 },
-
+    {
+  "id": "vchr-priorityBooking",
+  "name": "Priority Service Booking",
+  "description": "Skip the queue and get priority scheduling for your vehicle service.",
+  "additionalInfo": "Use this reward to receive priority service booking at Kerr & Smith Cumnock. Your vehicle will be booked at the earliest available slot with reduced wait time. Ideal for urgent or time-sensitive needs. Applies to standard servicing and repairs. MOT excluded.",
+  "isAvailable": true,
+  "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
+  "pointsCost": 500
+},
     {
       "id": "vchr-10offServ",
       "name": "10% Off Service",

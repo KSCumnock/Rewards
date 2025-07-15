@@ -7,7 +7,7 @@
       "additionalInfo": "Enjoy an instant £5 discount on any purchase at Kerr & Smith Cumnock. Simply present your voucher code at checkout. Cannot be combined with other discounts or promotional offers.",
       "isAvailable": true,
       "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
-      "pointsCost": 5
+      "pointsCost": 100
     },
     {
       "id": "d1i2s3c4-o5u6-n7t8-n9o0",
@@ -26,15 +26,6 @@
       "isAvailable": true,
       "imageUrl": "",
       "pointsCost": 1000
-    },
-    {
-      "id": "v1i2p3m4-e5m6-b7e8-r9s0",
-      "name": "VIP Membership",
-      "description": "Enjoy 12 months of VIP perks at Kerr & Smith.",
-      "additionalInfo": "Unlock 12 months of VIP benefits including priority servicing, complimentary vehicle health checks, access to courtesy vehicles (subject to availability), and invitations to special events. Benefits activate within 48 hours of redemption and are linked to your customer account.",
-      "isAvailable": true,
-      "imageUrl": "",
-      "pointsCost": 2500
     }
   ]
 }

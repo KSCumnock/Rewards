@@ -4,8 +4,8 @@
       "id": "vchr-10",
       "name": "£10 Voucher",
       "description": "£10 off your next purchase at Kerr & Smith. TEST",
-      "additionalInfo": "Enjoy an instant £10 discount on any purchase at Kerr & Smith Cumnock. Simply present your voucher code at checkout. Cannot be combined with other discounts or promotional offers. TEST",
-      "pointsCost": 12345,
+      "additionalInfo": "Enjoy an instant £10 discount on any purchase at Kerr & Smith Cumnock. Simply present your voucher code at checkout. Cannot be combined with other discounts or promotional offers.",
+      "pointsCost": 200,
       "isAvailable": true,
       "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png"
     },

@@ -1,58 +1,58 @@
 {
-    "rewards": [
-        {
-            "id": "vchr-10",
-            "name": "£10 Voucher",
-            "description": "£10 off your next purchase at Kerr & Smith.",
-            "additionalInfo": "Enjoy an instant £10 discount on any purchase at Kerr & Smith Cumnock. Simply present your voucher code at checkout. Cannot be combined with other discounts or promotional offers.",
-            "isAvailable": true,
-            "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
-            "pointsCost": 200
-        },
-        {
-            "id": "vchr-20",
-            "name": "£20 Voucher",
-            "description": "£20 off your next purchase at Kerr & Smith.",
-            "additionalInfo": "Enjoy an instant £20 discount on any purchase at Kerr & Smith Cumnock. Simply present your voucher code at checkout. Cannot be combined with other discounts or promotional offers.",
-            "isAvailable": true,
-            "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
-            "pointsCost": 400
-        },
-        {
-            "id": "vchr-50",
-            "name": "£50 Voucher",
-            "description": "£50 off your next purchase at Kerr & Smith.",
-            "additionalInfo": "Enjoy an instant £50 discount on any purchase at Kerr & Smith Cumnock. Simply present your voucher code at checkout. Cannot be combined with other discounts or promotional offers.",
-            "isAvailable": true,
-            "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
-            "pointsCost": 1000
-        },
-        {
-            "id": "vchr-priorityBooking",
-            "name": "Priority Service Booking",
-            "description": "Skip the queue and get priority scheduling for your vehicle service.",
-            "additionalInfo": "Use this reward to receive priority service booking at Kerr & Smith Cumnock. Your vehicle will be booked at the earliest available slot with reduced wait time. Ideal for urgent or time-sensitive needs. Applies to standard servicing and repairs. MOT excluded.",
-            "isAvailable": true,
-            "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
-            "pointsCost": 500
-        },
-        {
-            "id": "vchr-10offServ",
-            "name": "10% Off Service",
-            "description": "Save 10% on your next vehicle service.",
-            "additionalInfo": "Get 10% off labour and parts during your next service at Kerr & Smith Cumnock. Present your reward code when booking. Maximum discount value is £100. Not applicable to MOT tests or in combination with other service offers.",
-            "isAvailable": true,
-            "imageUrl": "",
-            "pointsCost": 750
-        },
-        {
-            "id": "vchr-freeMOT",
-            "name": "Free MOT",
-            "description": "Complimentary MOT test at Kerr & Smith Cumnock.",
-            "additionalInfo": "Redeem this reward for a free standard MOT at our Cumnock branch. Repairs or adjustments are not included. Please book at least 7 days in advance and mention your reward code when scheduling.",
-            "isAvailable": true,
-            "imageUrl": "",
-            "pointsCost": 1000
-        }
-    ]
+  "rewards": [
+    {
+      "id": "vchr-10",
+      "name": "£10 Voucher",
+      "description": "£10 off your next purchase at Kerr & Smith. TEST",
+      "additionalInfo": "Enjoy an instant £10 discount on any purchase at Kerr & Smith Cumnock. Simply present your voucher code at checkout. Cannot be combined with other discounts or promotional offers. TEST",
+      "pointsCost": 12345,
+      "isAvailable": true,
+      "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png"
+    },
+    {
+      "id": "vchr-20",
+      "name": "£20 Voucher",
+      "description": "£20 off your next purchase at Kerr & Smith.",
+      "additionalInfo": "Enjoy an instant £20 discount on any purchase at Kerr & Smith Cumnock. Simply present your voucher code at checkout. Cannot be combined with other discounts or promotional offers.",
+      "isAvailable": true,
+      "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
+      "pointsCost": 400
+    },
+    {
+      "id": "vchr-50",
+      "name": "£50 Voucher",
+      "description": "£50 off your next purchase at Kerr & Smith.",
+      "additionalInfo": "Enjoy an instant £50 discount on any purchase at Kerr & Smith Cumnock. Simply present your voucher code at checkout. Cannot be combined with other discounts or promotional offers.",
+      "isAvailable": true,
+      "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
+      "pointsCost": 1000
+    },
+    {
+      "id": "vchr-priorityBooking",
+      "name": "Priority Service Booking",
+      "description": "Skip the queue and get priority scheduling for your vehicle service.",
+      "additionalInfo": "Use this reward to receive priority service booking at Kerr & Smith Cumnock. Your vehicle will be booked at the earliest available slot with reduced wait time. Ideal for urgent or time-sensitive needs. Applies to standard servicing and repairs. MOT excluded.",
+      "isAvailable": true,
+      "imageUrl": "https://raw.githubusercontent.com/KSCumnock/Rewards/main/Main/Rewards/RewardImages/testImage.png",
+      "pointsCost": 500
+    },
+    {
+      "id": "vchr-10offServ",
+      "name": "10% Off Service",
+      "description": "Save 10% on your next vehicle service.",
+      "additionalInfo": "Get 10% off labour and parts during your next service at Kerr & Smith Cumnock. Present your reward code when booking. Maximum discount value is £100. Not applicable to MOT tests or in combination with other service offers.",
+      "isAvailable": true,
+      "imageUrl": "",
+      "pointsCost": 750
+    },
+    {
+      "id": "vchr-freeMOT",
+      "name": "Free MOT",
+      "description": "Complimentary MOT test at Kerr & Smith Cumnock.",
+      "additionalInfo": "Redeem this reward for a free standard MOT at our Cumnock branch. Repairs or adjustments are not included. Please book at least 7 days in advance and mention your reward code when scheduling.",
+      "isAvailable": true,
+      "imageUrl": "",
+      "pointsCost": 1000
+    }
+  ]
 }
